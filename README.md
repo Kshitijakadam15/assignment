@@ -1,7 +1,7 @@
 # assignment
 
 first clone the repository with
-git clone 
+git clone https://github.com/Kshitijakadam15/assignment.git
 
 #start backend
 
